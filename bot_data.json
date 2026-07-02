@@ -1,0 +1,318 @@
+{
+  "users": {
+    "5532441483": {
+      "balance": "47.21"
+    },
+    "8426063963": {
+      "balance": "0.00"
+    }
+  },
+  "pending_deposits": {
+    "TOP-9EFD2496F06E029B": {
+      "invoice_id": "TOP-9EFD2496F06E029B",
+      "user_id": 5532441483,
+      "chat_id": 5532441483,
+      "full_name": "A Ch",
+      "username": "ACH020",
+      "amount": "2",
+      "transaction_id": "5488457752",
+      "language": "en",
+      "status": "confirmed",
+      "created_at": "2026-07-01T20:00:04.339156+00:00",
+      "confirmed_at": "2026-07-01T20:00:43.844071+00:00"
+    },
+    "TOP-2CFA5683F05F83B3": {
+      "invoice_id": "TOP-2CFA5683F05F83B3",
+      "user_id": 5532441483,
+      "chat_id": 5532441483,
+      "full_name": "A Ch",
+      "username": "ACH020",
+      "amount": "0.01",
+      "transaction_id": "erfdfeerf",
+      "language": "en",
+      "purpose": "purchase",
+      "status": "confirmed",
+      "created_at": "2026-07-01T20:45:12.477027+00:00",
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "confirmed_at": "2026-07-01T20:45:18.385214+00:00"
+    },
+    "TOP-88C677C8A63A2DA0": {
+      "invoice_id": "TOP-88C677C8A63A2DA0",
+      "user_id": 5532441483,
+      "chat_id": 5532441483,
+      "full_name": "A Ch",
+      "username": "ACH020",
+      "amount": "0.65",
+      "transaction_id": "gtvtv",
+      "language": "en",
+      "purpose": "purchase",
+      "status": "confirmed",
+      "created_at": "2026-07-01T20:58:25.775630+00:00",
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "confirmed_at": "2026-07-01T20:58:29.466666+00:00"
+    },
+    "TOP-2F4EAAC544539F6D": {
+      "invoice_id": "TOP-2F4EAAC544539F6D",
+      "user_id": 5532441483,
+      "chat_id": 5532441483,
+      "full_name": "A Ch",
+      "username": "ACH020",
+      "amount": "50",
+      "transaction_id": "rgerg",
+      "language": "en",
+      "purpose": "topup",
+      "status": "confirmed",
+      "created_at": "2026-07-01T21:11:36.947304+00:00",
+      "confirmed_at": "2026-07-01T21:11:38.923276+00:00"
+    },
+    "TOP-9D935648E5E7AA37": {
+      "invoice_id": "TOP-9D935648E5E7AA37",
+      "user_id": 8426063963,
+      "chat_id": 8426063963,
+      "full_name": "FIRAS",
+      "username": "Wakilanabila",
+      "amount": "1.5",
+      "transaction_id": "100",
+      "language": "en",
+      "purpose": "purchase",
+      "status": "confirmed",
+      "created_at": "2026-07-01T21:20:34.663616+00:00",
+      "product_id": "prod_834084e6",
+      "product_name": "chatgpt plus",
+      "confirmed_at": "2026-07-01T21:20:38.489215+00:00"
+    },
+    "TOP-0490BEFBCFA31EAD": {
+      "invoice_id": "TOP-0490BEFBCFA31EAD",
+      "user_id": 5532441483,
+      "chat_id": 5532441483,
+      "full_name": "A Ch",
+      "username": "ACH020",
+      "amount": "2.8",
+      "transaction_id": "55555555",
+      "language": "en",
+      "purpose": "purchase",
+      "status": "rejected",
+      "created_at": "2026-07-02T00:47:13.162894+00:00",
+      "product_id": "prod_644741ba",
+      "product_name": "express VPN",
+      "quantity": 4,
+      "unit_price": "0.7",
+      "rejected_at": "2026-07-02T00:47:22.575442+00:00"
+    }
+  },
+  "orders": {
+    "ORD-12E595D8A2D4": {
+      "order_id": "ORD-12E595D8A2D4",
+      "user_id": 5532441483,
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "price": "0.01",
+      "delivery": "TEST-COUPON-004",
+      "created_at": "2026-07-01T20:28:39.588525+00:00"
+    },
+    "ORD-18C54FAC279D": {
+      "order_id": "ORD-18C54FAC279D",
+      "user_id": 5532441483,
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "price": "0.01",
+      "delivery": "TEST-COUPON-003",
+      "created_at": "2026-07-01T20:30:45.167457+00:00"
+    },
+    "ORD-1D130B7A45C6": {
+      "order_id": "ORD-1D130B7A45C6",
+      "user_id": 5532441483,
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "price": "0.01",
+      "delivery": "TEST-COUPON-004",
+      "payment_method": "binance",
+      "invoice_id": "TOP-2CFA5683F05F83B3",
+      "created_at": "2026-07-01T20:45:18.385197+00:00"
+    },
+    "ORD-3E66C223DE5B": {
+      "order_id": "ORD-3E66C223DE5B",
+      "user_id": 5532441483,
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "price": "0.01",
+      "delivery": "TEST-COUPON-005",
+      "created_at": "2026-07-01T20:45:24.542778+00:00"
+    },
+    "ORD-E68C0C1667F4": {
+      "order_id": "ORD-E68C0C1667F4",
+      "user_id": 5532441483,
+      "product_id": "random_coupon",
+      "product_name": "Random Coupon",
+      "price": "0.01",
+      "delivery": "TEST-COUPON-002",
+      "created_at": "2026-07-01T20:45:33.763020+00:00"
+    },
+    "ORD-770096D3103D": {
+      "order_id": "ORD-770096D3103D",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "122jeje",
+      "payment_method": "binance",
+      "invoice_id": "TOP-88C677C8A63A2DA0",
+      "created_at": "2026-07-01T20:58:29.466655+00:00"
+    },
+    "ORD-37C56513083A": {
+      "order_id": "ORD-37C56513083A",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "fzefezfzef",
+      "created_at": "2026-07-01T21:11:02.130267+00:00"
+    },
+    "ORD-C35A55135B74": {
+      "order_id": "ORD-C35A55135B74",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "aedqsdnzkdzefze",
+      "created_at": "2026-07-01T21:11:09.629789+00:00"
+    },
+    "ORD-23A6A173C16D": {
+      "order_id": "ORD-23A6A173C16D",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "klz",
+      "created_at": "2026-07-01T21:11:14.497551+00:00"
+    },
+    "ORD-5DC30F10B999": {
+      "order_id": "ORD-5DC30F10B999",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "ammar@gmail.com;1222",
+      "created_at": "2026-07-01T21:11:45.596493+00:00"
+    },
+    "ORD-88B298175570": {
+      "order_id": "ORD-88B298175570",
+      "user_id": 5532441483,
+      "product_id": "prod_55d7486b",
+      "product_name": "gemini ai",
+      "price": "0.65",
+      "delivery": "122jeje",
+      "created_at": "2026-07-01T21:11:54.769449+00:00"
+    },
+    "ORD-3A46081C8C7A": {
+      "order_id": "ORD-3A46081C8C7A",
+      "user_id": 5532441483,
+      "product_id": "prod_834084e6",
+      "product_name": "chatgpt plus",
+      "price": "1.5",
+      "delivery": "TEST-COUPON-004",
+      "created_at": "2026-07-01T21:17:39.070725+00:00"
+    },
+    "ORD-CDFC6DEDF12E": {
+      "order_id": "ORD-CDFC6DEDF12E",
+      "user_id": 8426063963,
+      "product_id": "prod_834084e6",
+      "product_name": "chatgpt plus",
+      "price": "1.5",
+      "delivery": "TEST-COUPON-003",
+      "payment_method": "binance",
+      "invoice_id": "TOP-9D935648E5E7AA37",
+      "created_at": "2026-07-01T21:20:38.489204+00:00"
+    }
+  },
+  "products": [
+    {
+      "id": "prod_9c4809f0",
+      "icon": "\ud83c\udfab",
+      "price": "1.3",
+      "type": "coupon",
+      "name": {
+        "en": "chatgpt plus",
+        "fr": "chatgpt plus"
+      },
+      "description": {
+        "en": "fez",
+        "fr": "fez"
+      },
+      "coupons": []
+    },
+    {
+      "id": "prod_644741ba",
+      "icon": "\ud83c\udfab",
+      "price": "0.7",
+      "type": "coupon",
+      "name": {
+        "en": "express VPN",
+        "fr": "express VPN"
+      },
+      "description": {
+        "en": "use the coupon \n- sign in with activation code \n-it only used on pc",
+        "fr": "use the coupon \n- sign in with activation code \n-it only used on pc"
+      },
+      "coupons": [
+        "EXOWLOGOT9NYMEQFUQ9GWQJ",
+        "E89FCCFA83EDCF94ALJXS4T",
+        "EKXZRQMAS6CCJA6A8HM2XA4",
+        "EEFUMPCU9PCKC3NQREGP2PY"
+      ]
+    },
+    {
+      "id": "prod_c771e2f7",
+      "icon": "\ud83c\udfab",
+      "price": "0.4",
+      "type": "coupon",
+      "name": {
+        "en": "Duolingo",
+        "fr": "Duolingo"
+      },
+      "description": {
+        "en": "duolingo just pay and get u account and password \nchange ur password",
+        "fr": "Abonnement Duolingo disponible. Apr\u00e8s le paiement, vous recevez les informations de connexion du compte. Il est recommand\u00e9 de changer le mot de passe apr\u00e8s la premi\u00e8re connexion."
+      },
+      "coupons": [
+        "tgtriffitt@gmail.com;Mahmoud123456)@",
+        "davidlleeaall@gmail.com;Mahmoud123456)@",
+        "dlrylmz11@gmail.com;Mahmoud123456)@",
+        "bantoniofuentes@gmail.com;Mahmoud123456)@",
+        "enzohhgt@gmail.com;Mahmoud123456)@",
+        "baranyi1978@gmail.com;Mahmoud123456)@",
+        "regetiabhishek@gmail.com;Mahmoud123456)@"
+      ]
+    },
+    {
+      "id": "prod_90d052fd",
+      "icon": "\ud83c\udfab",
+      "price": "1.6",
+      "type": "coupon",
+      "name": {
+        "en": "DEEZER",
+        "fr": "1.6"
+      },
+      "description": {
+        "en": "DEEZER ready made account premium with limit Date",
+        "fr": "Compte Deezer Premium pr\u00eat \u00e0 l\u2019emploi, avec date de validit\u00e9 limit\u00e9e."
+      },
+      "coupons": [
+        "danny.brwner@gmail.com;Miranda@22",
+        "j.mockly@gmail.com;Olivia010614!",
+        "jls.derisoud@gmail.com;@goule666?",
+        "manue_lili@hotmail.com;Milla$34",
+        "benetieres1@gmail.com;Pacha42300..",
+        "mwapenkandu51@gmail.com;mwape01l"
+      ]
+    }
+  ],
+  "text_overrides": {
+    "en": {
+      "support": "zr"
+    }
+  },
+  "support_contacts": []
+}
